@@ -1,0 +1,82 @@
+{
+    // Melos block for automatic pub get updates
+    "dart.runPubGetOnPubspecChanges": false,
+    // Editor
+    "git.ignoreLimitWarning": true,
+    "editor.wordWrapColumn": 120,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        120
+    ],
+    // Dart
+    "dart.lineLength": 120,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewUpdateImportsOnRename": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+        "editor.rulers": [
+            120
+        ],
+    },
+    // Material icons
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.activeIconPack": "none",
+    "material-icon-theme.folders.associations": {
+        "intl": "I18n",
+        "l10n": "I18n",
+        "blocs": "api",
+        "bloc": "api",
+        "pages": "layout",
+        "src": "less",
+        "lib": "src",
+        "assets": "images",
+        "images": "images",
+        "main": "app",
+        "mixins": "functions",
+        "providers": "global",
+        "repositories": "routes",
+        "resolvers": "tasks"
+    },
+    "material-icon-theme.saturation": 0.9,
+    "material-icon-theme.folders.color": "#90a4ae",
+    // Psi-header
+    "psi-header.changes-tracking": {
+        "autoHeader": "manualSave"
+    },
+    "psi-header.lang-config": [
+        {
+            "language": "dart",
+            "begin": "/*",
+            "end": "*/",
+            "prefix": "* // "
+        }
+    ],
+    // Add to user settings
+    // "psi-header.config.author": "Name Surname",
+    "psi-header.config": {
+        "forceToTop": true,
+        "blankLinesAfter": 1,
+        "company": "elopage",
+    },
+    "psi-header.templates": [
+        {
+            "language": "dart",
+            "template": [
+                "",
+                "<<filename>>",
+                "<<company>>",
+                "",
+                "Created by <<author>> on <<filecreated('YYYY-MM-DD')>>",
+                "Copyright (c) <<year>> <<company>>. All rights reserved.",
+                ""
+            ]
+        },
+    ],
+}

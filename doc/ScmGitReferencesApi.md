@@ -1,0 +1,62 @@
+# app_store_connect.api.ScmGitReferencesApi
+
+## Load the API package
+```dart
+import 'package:app_store_connect/api.dart';
+```
+
+All URIs are relative to *https://api.appstoreconnect.apple.com*
+
+Method | HTTP request | Description
+------------- | ------------- | -------------
+[**scmGitReferencesGetInstance**](ScmGitReferencesApi.md#scmgitreferencesgetinstance) | **GET** /v1/scmGitReferences/{id} | 
+
+
+# **scmGitReferencesGetInstance**
+> ScmGitReferenceResponse scmGitReferencesGetInstance(id, fieldsLeftSquareBracketScmGitReferencesRightSquareBracket, include)
+
+
+
+### Example
+```dart
+import 'package:app_store_connect/api.dart';
+// TODO Configure HTTP basic authorization: itc-bearer-token
+//defaultApiClient.getAuthentication<HttpBasicAuth>('itc-bearer-token').username = 'YOUR_USERNAME'
+//defaultApiClient.getAuthentication<HttpBasicAuth>('itc-bearer-token').password = 'YOUR_PASSWORD';
+
+final api = AppStoreConnect().getScmGitReferencesApi();
+final String id = id_example; // String | the id of the requested resource
+final BuiltList<String> fieldsLeftSquareBracketScmGitReferencesRightSquareBracket = ; // BuiltList<String> | the fields to include for returned resources of type scmGitReferences
+final BuiltList<String> include = ; // BuiltList<String> | comma-separated list of relationships to include
+
+try {
+    final response = api.scmGitReferencesGetInstance(id, fieldsLeftSquareBracketScmGitReferencesRightSquareBracket, include);
+    print(response);
+} catch on DioError (e) {
+    print('Exception when calling ScmGitReferencesApi->scmGitReferencesGetInstance: $e\n');
+}
+```
+
+### Parameters
+
+Name | Type | Description  | Notes
+------------- | ------------- | ------------- | -------------
+ **id** | **String**| the id of the requested resource | 
+ **fieldsLeftSquareBracketScmGitReferencesRightSquareBracket** | [**BuiltList&lt;String&gt;**](String.md)| the fields to include for returned resources of type scmGitReferences | [optional] 
+ **include** | [**BuiltList&lt;String&gt;**](String.md)| comma-separated list of relationships to include | [optional] 
+
+### Return type
+
+[**ScmGitReferenceResponse**](ScmGitReferenceResponse.md)
+
+### Authorization
+
+[itc-bearer-token](../README.md#itc-bearer-token)
+
+### HTTP request headers
+
+ - **Content-Type**: Not defined
+ - **Accept**: application/json
+
+[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+
