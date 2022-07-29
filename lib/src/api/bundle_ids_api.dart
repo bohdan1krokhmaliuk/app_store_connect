@@ -14,7 +14,6 @@ import 'package:app_store_connect/src/model/bundle_id_create_request.dart';
 import 'package:app_store_connect/src/model/bundle_id_response.dart';
 import 'package:app_store_connect/src/model/bundle_id_update_request.dart';
 import 'package:app_store_connect/src/model/bundle_ids_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/profiles_response.dart';
 import 'package:built_collection/built_collection.dart';
 

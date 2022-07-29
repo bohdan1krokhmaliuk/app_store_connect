@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/app_preview_sets_response.dart';
 import 'package:app_store_connect/src/model/app_screenshot_sets_response.dart';
 import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_localization_create_request.dart';
 import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_localization_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppStoreVersionExperimentTreatmentLocalizationsApi {

@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/app_response.dart';
 import 'package:app_store_connect/src/model/beta_app_review_detail_response.dart';
 import 'package:app_store_connect/src/model/beta_app_review_detail_update_request.dart';
 import 'package:app_store_connect/src/model/beta_app_review_details_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class BetaAppReviewDetailsApi {

@@ -13,7 +13,6 @@ import 'package:app_store_connect/src/model/app_event_localization_response.dart
 import 'package:app_store_connect/src/model/app_event_localization_update_request.dart';
 import 'package:app_store_connect/src/model/app_event_screenshots_response.dart';
 import 'package:app_store_connect/src/model/app_event_video_clips_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppEventLocalizationsApi {

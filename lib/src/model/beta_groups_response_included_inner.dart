@@ -2,11 +2,8 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/build.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/app.dart';
 import 'package:app_store_connect/src/model/beta_tester_relationships.dart';
-import 'package:app_store_connect/src/model/beta_tester.dart';
 import 'package:app_store_connect/src/model/beta_tester_attributes.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
 import 'package:built_value/built_value.dart';

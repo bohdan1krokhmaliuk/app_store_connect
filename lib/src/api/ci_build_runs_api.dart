@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/builds_response.dart';
 import 'package:app_store_connect/src/model/ci_build_actions_response.dart';
 import 'package:app_store_connect/src/model/ci_build_run_create_request.dart';
 import 'package:app_store_connect/src/model/ci_build_run_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class CiBuildRunsApi {

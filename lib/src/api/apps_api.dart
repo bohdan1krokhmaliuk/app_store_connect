@@ -30,7 +30,6 @@ import 'package:app_store_connect/src/model/builds_response.dart';
 import 'package:app_store_connect/src/model/ci_product_response.dart';
 import 'package:app_store_connect/src/model/customer_reviews_response.dart';
 import 'package:app_store_connect/src/model/end_user_license_agreement_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/game_center_enabled_versions_response.dart';
 import 'package:app_store_connect/src/model/in_app_purchases_response.dart';
 import 'package:app_store_connect/src/model/in_app_purchases_v2_response.dart';

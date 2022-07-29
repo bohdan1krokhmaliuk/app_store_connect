@@ -13,7 +13,6 @@ import 'package:app_store_connect/src/model/app_preview_set_app_previews_linkage
 import 'package:app_store_connect/src/model/app_preview_set_create_request.dart';
 import 'package:app_store_connect/src/model/app_preview_set_response.dart';
 import 'package:app_store_connect/src/model/app_previews_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppPreviewSetsApi {

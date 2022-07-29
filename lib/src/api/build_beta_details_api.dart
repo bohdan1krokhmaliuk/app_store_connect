@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/build_beta_detail_response.dart';
 import 'package:app_store_connect/src/model/build_beta_detail_update_request.dart';
 import 'package:app_store_connect/src/model/build_beta_details_response.dart';
 import 'package:app_store_connect/src/model/build_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class BuildBetaDetailsApi {

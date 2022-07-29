@@ -2,8 +2,6 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/scm_git_reference.dart';
-import 'package:app_store_connect/src/model/scm_provider.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
 import 'package:app_store_connect/src/model/scm_git_reference_attributes.dart';

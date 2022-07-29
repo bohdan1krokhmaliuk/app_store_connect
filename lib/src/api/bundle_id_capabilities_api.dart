@@ -10,7 +10,6 @@ import 'package:dio/dio.dart';
 import 'package:app_store_connect/src/model/bundle_id_capability_create_request.dart';
 import 'package:app_store_connect/src/model/bundle_id_capability_response.dart';
 import 'package:app_store_connect/src/model/bundle_id_capability_update_request.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class BundleIdCapabilitiesApi {
   final Dio _dio;

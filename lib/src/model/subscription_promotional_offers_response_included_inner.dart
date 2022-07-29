@@ -2,9 +2,7 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/subscription.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/subscription_promotional_offer_price.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
 import 'package:app_store_connect/src/model/subscription_offer_code_price_relationships.dart';
 import 'package:app_store_connect/src/model/subscription_attributes.dart';

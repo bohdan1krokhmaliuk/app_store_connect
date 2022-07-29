@@ -10,7 +10,6 @@ import 'package:dio/dio.dart';
 import 'package:app_store_connect/src/model/beta_app_clip_invocation_localization_create_request.dart';
 import 'package:app_store_connect/src/model/beta_app_clip_invocation_localization_response.dart';
 import 'package:app_store_connect/src/model/beta_app_clip_invocation_localization_update_request.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class BetaAppClipInvocationLocalizationsApi {
   final Dio _dio;

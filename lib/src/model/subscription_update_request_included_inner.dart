@@ -5,9 +5,6 @@
 import 'package:app_store_connect/src/model/subscription_introductory_offer_inline_create_attributes.dart';
 import 'package:app_store_connect/src/model/subscription_introductory_offer_inline_create_relationships.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/subscription_promotional_offer_inline_create.dart';
-import 'package:app_store_connect/src/model/subscription_price_inline_create.dart';
-import 'package:app_store_connect/src/model/subscription_introductory_offer_inline_create.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

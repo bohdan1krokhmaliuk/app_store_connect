@@ -11,7 +11,6 @@ import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/app_clip_domain_status_response.dart';
 import 'package:app_store_connect/src/model/beta_app_clip_invocations_response.dart';
 import 'package:app_store_connect/src/model/build_bundle_file_sizes_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class BuildBundlesApi {

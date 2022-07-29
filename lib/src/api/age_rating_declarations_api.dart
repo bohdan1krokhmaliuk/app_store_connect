@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/model/age_rating_declaration_response.dart';
 import 'package:app_store_connect/src/model/age_rating_declaration_update_request.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class AgeRatingDeclarationsApi {
   final Dio _dio;

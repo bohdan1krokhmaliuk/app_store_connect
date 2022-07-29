@@ -11,7 +11,6 @@ import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/certificate_create_request.dart';
 import 'package:app_store_connect/src/model/certificate_response.dart';
 import 'package:app_store_connect/src/model/certificates_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class CertificatesApi {

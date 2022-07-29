@@ -11,7 +11,6 @@ import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/ci_mac_os_versions_response.dart';
 import 'package:app_store_connect/src/model/ci_xcode_version_response.dart';
 import 'package:app_store_connect/src/model/ci_xcode_versions_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class CiXcodeVersionsApi {

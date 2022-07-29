@@ -13,7 +13,6 @@ import 'package:app_store_connect/src/model/ci_build_action_response.dart';
 import 'package:app_store_connect/src/model/ci_build_run_response.dart';
 import 'package:app_store_connect/src/model/ci_issues_response.dart';
 import 'package:app_store_connect/src/model/ci_test_results_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class CiBuildActionsApi {

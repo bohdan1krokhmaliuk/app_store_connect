@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/device_create_request.dart';
 import 'package:app_store_connect/src/model/device_response.dart';
 import 'package:app_store_connect/src/model/device_update_request.dart';
 import 'package:app_store_connect/src/model/devices_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class DevicesApi {

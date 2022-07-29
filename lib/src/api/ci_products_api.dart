@@ -13,7 +13,6 @@ import 'package:app_store_connect/src/model/ci_build_runs_response.dart';
 import 'package:app_store_connect/src/model/ci_product_response.dart';
 import 'package:app_store_connect/src/model/ci_products_response.dart';
 import 'package:app_store_connect/src/model/ci_workflows_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/scm_repositories_response.dart';
 import 'package:built_collection/built_collection.dart';
 

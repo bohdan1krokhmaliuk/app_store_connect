@@ -3,12 +3,9 @@
 //
 
 import 'package:app_store_connect/src/model/app_preview_set_relationships.dart';
-import 'package:app_store_connect/src/model/app_preview_set.dart';
 import 'package:app_store_connect/src/model/app_preview_set_attributes.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/app_store_version_experiment_treatment.dart';
-import 'package:app_store_connect/src/model/app_screenshot_set.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

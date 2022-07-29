@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/app_clip_default_experience_localiza
 import 'package:app_store_connect/src/model/app_clip_default_experience_localization_response.dart';
 import 'package:app_store_connect/src/model/app_clip_default_experience_localization_update_request.dart';
 import 'package:app_store_connect/src/model/app_clip_header_image_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppClipDefaultExperienceLocalizationsApi {

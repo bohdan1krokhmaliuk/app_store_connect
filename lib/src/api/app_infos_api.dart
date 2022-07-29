@@ -13,7 +13,6 @@ import 'package:app_store_connect/src/model/app_category_response.dart';
 import 'package:app_store_connect/src/model/app_info_localizations_response.dart';
 import 'package:app_store_connect/src/model/app_info_response.dart';
 import 'package:app_store_connect/src/model/app_info_update_request.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppInfosApi {

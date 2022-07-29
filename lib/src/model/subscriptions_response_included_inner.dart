@@ -2,16 +2,8 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/subscription_app_store_review_screenshot.dart';
-import 'package:app_store_connect/src/model/subscription_introductory_offer.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/subscription_offer_code.dart';
-import 'package:app_store_connect/src/model/subscription_price.dart';
-import 'package:app_store_connect/src/model/subscription_group.dart';
-import 'package:app_store_connect/src/model/subscription_promotional_offer.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/subscription_localization.dart';
-import 'package:app_store_connect/src/model/promoted_purchase.dart';
 import 'package:app_store_connect/src/model/promoted_purchase_relationships.dart';
 import 'package:app_store_connect/src/model/promoted_purchase_attributes.dart';
 import 'package:built_value/built_value.dart';

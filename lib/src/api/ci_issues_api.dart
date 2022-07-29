@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/ci_issue_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class CiIssuesApi {

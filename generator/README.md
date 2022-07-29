@@ -13,6 +13,7 @@
 * run `flutter pub run build_runner build` on generated project to generate dio serializables (takes around 5 mins)
 * fix [dio issues](#dio-generation-issues) on generated serializables
 * run `dart format --line-length=120 .` on generated project
+* run `dart fix --apply` on generated project
 
 
 ## API generation issues

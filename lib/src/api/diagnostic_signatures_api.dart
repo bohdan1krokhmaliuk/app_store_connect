@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/diagnostic_logs.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class DiagnosticSignaturesApi {
   final Dio _dio;

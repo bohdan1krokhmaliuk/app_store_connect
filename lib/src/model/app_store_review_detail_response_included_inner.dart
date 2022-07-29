@@ -6,8 +6,6 @@ import 'package:built_collection/built_collection.dart';
 import 'package:app_store_connect/src/model/app_store_review_attachment_relationships.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
 import 'package:app_store_connect/src/model/app_store_review_attachment_attributes.dart';
-import 'package:app_store_connect/src/model/app_store_version.dart';
-import 'package:app_store_connect/src/model/app_store_review_attachment.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

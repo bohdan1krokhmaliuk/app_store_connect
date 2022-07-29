@@ -2,13 +2,9 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/age_rating_declaration.dart';
 import 'package:app_store_connect/src/model/app_category_relationships.dart';
-import 'package:app_store_connect/src/model/app_info_localization.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/app.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/app_category.dart';
 import 'package:app_store_connect/src/model/app_category_attributes.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';

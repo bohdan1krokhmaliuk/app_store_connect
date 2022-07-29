@@ -8,7 +8,6 @@ import 'package:built_value/serializer.dart';
 import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/api_util.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/in_app_purchase_localization_create_request.dart';
 import 'package:app_store_connect/src/model/in_app_purchase_localization_response.dart';
 import 'package:app_store_connect/src/model/in_app_purchase_localization_update_request.dart';

@@ -8,7 +8,6 @@ import 'package:built_value/serializer.dart';
 import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/api_util.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/game_center_enabled_version_compatible_versions_linkages_request.dart';
 import 'package:app_store_connect/src/model/game_center_enabled_version_compatible_versions_linkages_response.dart';
 import 'package:app_store_connect/src/model/game_center_enabled_versions_response.dart';

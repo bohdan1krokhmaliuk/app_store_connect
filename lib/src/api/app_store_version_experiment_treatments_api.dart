@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/app_store_version_experiment_treatme
 import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_localizations_response.dart';
 import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_response.dart';
 import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_update_request.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppStoreVersionExperimentTreatmentsApi {

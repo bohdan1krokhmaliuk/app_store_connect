@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/app_encryption_declaration_builds_li
 import 'package:app_store_connect/src/model/app_encryption_declaration_response.dart';
 import 'package:app_store_connect/src/model/app_encryption_declarations_response.dart';
 import 'package:app_store_connect/src/model/app_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppEncryptionDeclarationsApi {

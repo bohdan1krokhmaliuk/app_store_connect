@@ -24,7 +24,6 @@ import 'package:app_store_connect/src/model/app_store_version_submission_respons
 import 'package:app_store_connect/src/model/app_store_version_update_request.dart';
 import 'package:app_store_connect/src/model/build_response.dart';
 import 'package:app_store_connect/src/model/customer_reviews_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/routing_app_coverage_response.dart';
 import 'package:built_collection/built_collection.dart';
 

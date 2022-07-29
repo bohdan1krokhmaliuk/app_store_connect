@@ -10,7 +10,6 @@ import 'package:dio/dio.dart';
 import 'package:app_store_connect/src/model/app_store_version_phased_release_create_request.dart';
 import 'package:app_store_connect/src/model/app_store_version_phased_release_response.dart';
 import 'package:app_store_connect/src/model/app_store_version_phased_release_update_request.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class AppStoreVersionPhasedReleasesApi {
   final Dio _dio;

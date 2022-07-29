@@ -6,10 +6,6 @@ import 'package:app_store_connect/src/model/app_clip_app_store_review_detail_att
 import 'package:app_store_connect/src/model/app_clip_app_store_review_detail_relationships.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/app_clip_app_store_review_detail.dart';
-import 'package:app_store_connect/src/model/app_store_version.dart';
-import 'package:app_store_connect/src/model/app_clip.dart';
-import 'package:app_store_connect/src/model/app_clip_default_experience_localization.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

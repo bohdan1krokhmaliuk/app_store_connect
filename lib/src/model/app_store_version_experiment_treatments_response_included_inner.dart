@@ -2,9 +2,7 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/app_store_version_experiment.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_localization.dart';
 import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_localization_attributes.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
 import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_localization_relationships.dart';

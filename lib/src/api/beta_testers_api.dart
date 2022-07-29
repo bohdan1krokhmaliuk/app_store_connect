@@ -20,7 +20,6 @@ import 'package:app_store_connect/src/model/beta_tester_create_request.dart';
 import 'package:app_store_connect/src/model/beta_tester_response.dart';
 import 'package:app_store_connect/src/model/beta_testers_response.dart';
 import 'package:app_store_connect/src/model/builds_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class BetaTestersApi {

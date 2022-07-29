@@ -11,7 +11,6 @@ import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/bundle_id_response.dart';
 import 'package:app_store_connect/src/model/certificates_response.dart';
 import 'package:app_store_connect/src/model/devices_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/profile_create_request.dart';
 import 'package:app_store_connect/src/model/profile_response.dart';
 import 'package:app_store_connect/src/model/profiles_response.dart';

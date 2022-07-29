@@ -19,7 +19,6 @@ import 'package:app_store_connect/src/model/beta_group_update_request.dart';
 import 'package:app_store_connect/src/model/beta_groups_response.dart';
 import 'package:app_store_connect/src/model/beta_testers_response.dart';
 import 'package:app_store_connect/src/model/builds_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class BetaGroupsApi {

@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/model/app_store_version_submission_create_request.dart';
 import 'package:app_store_connect/src/model/app_store_version_submission_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class AppStoreVersionSubmissionsApi {
   final Dio _dio;

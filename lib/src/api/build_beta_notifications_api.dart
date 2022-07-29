@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/model/build_beta_notification_create_request.dart';
 import 'package:app_store_connect/src/model/build_beta_notification_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class BuildBetaNotificationsApi {
   final Dio _dio;

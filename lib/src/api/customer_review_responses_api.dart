@@ -10,7 +10,6 @@ import 'package:dio/dio.dart';
 import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/customer_review_response_v1_create_request.dart';
 import 'package:app_store_connect/src/model/customer_review_response_v1_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class CustomerReviewResponsesApi {

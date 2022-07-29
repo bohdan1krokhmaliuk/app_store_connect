@@ -11,7 +11,6 @@ import 'package:app_store_connect/src/api_util.dart';
 import 'package:app_store_connect/src/model/app_clip_advanced_experiences_response.dart';
 import 'package:app_store_connect/src/model/app_clip_default_experiences_response.dart';
 import 'package:app_store_connect/src/model/app_clip_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class AppClipsApi {

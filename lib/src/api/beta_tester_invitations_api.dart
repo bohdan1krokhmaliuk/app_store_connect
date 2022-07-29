@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:app_store_connect/src/model/beta_tester_invitation_create_request.dart';
 import 'package:app_store_connect/src/model/beta_tester_invitation_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 
 class BetaTesterInvitationsApi {
   final Dio _dio;

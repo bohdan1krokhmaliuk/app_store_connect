@@ -25,7 +25,6 @@ import 'package:app_store_connect/src/model/build_response.dart';
 import 'package:app_store_connect/src/model/build_update_request.dart';
 import 'package:app_store_connect/src/model/builds_response.dart';
 import 'package:app_store_connect/src/model/diagnostic_signatures_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/prerelease_version_response.dart';
 import 'package:app_store_connect/src/model/xcode_metrics.dart';
 import 'package:built_collection/built_collection.dart';

@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/beta_app_review_submission_create_re
 import 'package:app_store_connect/src/model/beta_app_review_submission_response.dart';
 import 'package:app_store_connect/src/model/beta_app_review_submissions_response.dart';
 import 'package:app_store_connect/src/model/build_response.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:built_collection/built_collection.dart';
 
 class BetaAppReviewSubmissionsApi {

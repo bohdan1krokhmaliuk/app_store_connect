@@ -2,8 +2,6 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/error_source_parameter.dart';
-import 'package:app_store_connect/src/model/error_source_pointer.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

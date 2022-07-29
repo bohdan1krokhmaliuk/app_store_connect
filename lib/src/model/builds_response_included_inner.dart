@@ -3,20 +3,9 @@
 //
 
 import 'package:app_store_connect/src/model/build_bundle_relationships.dart';
-import 'package:app_store_connect/src/model/app.dart';
-import 'package:app_store_connect/src/model/beta_group.dart';
-import 'package:app_store_connect/src/model/beta_tester.dart';
-import 'package:app_store_connect/src/model/prerelease_version.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/build_beta_detail.dart';
-import 'package:app_store_connect/src/model/build_icon.dart';
-import 'package:app_store_connect/src/model/app_store_version.dart';
-import 'package:app_store_connect/src/model/build_bundle.dart';
 import 'package:app_store_connect/src/model/build_bundle_attributes.dart';
-import 'package:app_store_connect/src/model/app_encryption_declaration.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/beta_build_localization.dart';
-import 'package:app_store_connect/src/model/beta_app_review_submission.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

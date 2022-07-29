@@ -12,7 +12,6 @@ import 'package:app_store_connect/src/model/ci_build_runs_response.dart';
 import 'package:app_store_connect/src/model/ci_workflow_create_request.dart';
 import 'package:app_store_connect/src/model/ci_workflow_response.dart';
 import 'package:app_store_connect/src/model/ci_workflow_update_request.dart';
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/scm_repository_response.dart';
 import 'package:built_collection/built_collection.dart';
 

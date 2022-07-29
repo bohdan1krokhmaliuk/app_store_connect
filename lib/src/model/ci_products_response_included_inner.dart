@@ -2,12 +2,9 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/bundle_id.dart';
 import 'package:app_store_connect/src/model/scm_repository_attributes.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/app.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/scm_repository.dart';
 import 'package:app_store_connect/src/model/scm_repository_relationships.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';

@@ -7,7 +7,6 @@ import 'dart:async';
 import 'package:built_value/serializer.dart';
 import 'package:dio/dio.dart';
 
-import 'package:app_store_connect/src/model/error_response.dart';
 import 'package:app_store_connect/src/model/review_submission_item_create_request.dart';
 import 'package:app_store_connect/src/model/review_submission_item_response.dart';
 import 'package:app_store_connect/src/model/review_submission_item_update_request.dart';

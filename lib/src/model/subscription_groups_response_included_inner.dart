@@ -3,11 +3,9 @@
 //
 
 import 'package:app_store_connect/src/model/subscription_group_localization_attributes.dart';
-import 'package:app_store_connect/src/model/subscription.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:app_store_connect/src/model/subscription_group_localization_relationships.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/subscription_group_localization.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

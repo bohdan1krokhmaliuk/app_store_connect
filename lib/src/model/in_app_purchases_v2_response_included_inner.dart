@@ -2,15 +2,9 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/in_app_purchase_price_schedule.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/in_app_purchase_localization.dart';
-import 'package:app_store_connect/src/model/in_app_purchase_price_point.dart';
 import 'package:app_store_connect/src/model/in_app_purchase_price_schedule_relationships.dart';
-import 'package:app_store_connect/src/model/in_app_purchase_content.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/promoted_purchase.dart';
-import 'package:app_store_connect/src/model/in_app_purchase_app_store_review_screenshot.dart';
 import 'package:app_store_connect/src/model/promoted_purchase_attributes.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';

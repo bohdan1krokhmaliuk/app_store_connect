@@ -2,14 +2,10 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/app_preview.dart';
 import 'package:app_store_connect/src/model/app_preview_relationships.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:app_store_connect/src/model/app_preview_attributes.dart';
-import 'package:app_store_connect/src/model/app_store_version_experiment_treatment_localization.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/app_custom_product_page_localization.dart';
-import 'package:app_store_connect/src/model/app_store_version_localization.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

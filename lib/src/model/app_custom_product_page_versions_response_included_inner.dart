@@ -6,8 +6,6 @@ import 'package:app_store_connect/src/model/app_custom_product_page_localization
 import 'package:app_store_connect/src/model/app_custom_product_page_localization_attributes.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/app_custom_product_page_localization.dart';
-import 'package:app_store_connect/src/model/app_custom_product_page.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

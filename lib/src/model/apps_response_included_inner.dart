@@ -2,33 +2,10 @@
 // AUTO-GENERATED FILE, DO NOT MODIFY!
 //
 
-import 'package:app_store_connect/src/model/game_center_enabled_version.dart';
-import 'package:app_store_connect/src/model/subscription_group.dart';
-import 'package:app_store_connect/src/model/beta_group.dart';
-import 'package:app_store_connect/src/model/prerelease_version.dart';
 import 'package:app_store_connect/src/model/resource_links.dart';
-import 'package:app_store_connect/src/model/app_store_version.dart';
-import 'package:app_store_connect/src/model/promoted_purchase.dart';
-import 'package:app_store_connect/src/model/app_clip.dart';
-import 'package:app_store_connect/src/model/ci_product.dart';
-import 'package:app_store_connect/src/model/in_app_purchase_v2.dart';
-import 'package:app_store_connect/src/model/app_event.dart';
-import 'package:app_store_connect/src/model/end_user_license_agreement.dart';
 import 'package:app_store_connect/src/model/subscription_grace_period_attributes.dart';
 import 'package:app_store_connect/src/model/review_submission_relationships.dart';
-import 'package:app_store_connect/src/model/beta_app_localization.dart';
-import 'package:app_store_connect/src/model/build.dart';
-import 'package:app_store_connect/src/model/review_submission.dart';
-import 'package:app_store_connect/src/model/app_pre_order.dart';
-import 'package:app_store_connect/src/model/in_app_purchase.dart';
-import 'package:app_store_connect/src/model/subscription_grace_period.dart';
-import 'package:app_store_connect/src/model/app_custom_product_page.dart';
-import 'package:app_store_connect/src/model/app_price.dart';
-import 'package:app_store_connect/src/model/app_info.dart';
-import 'package:app_store_connect/src/model/beta_license_agreement.dart';
-import 'package:app_store_connect/src/model/beta_app_review_detail.dart';
 import 'package:built_collection/built_collection.dart';
-import 'package:app_store_connect/src/model/territory.dart';
 import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 
